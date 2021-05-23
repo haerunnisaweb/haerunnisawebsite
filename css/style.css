@@ -61,6 +61,18 @@ h2 {
   align-self: left;
 }
 
+.navv-menu {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  top: 300px;
+  left: 50px;
+}
+.navv-link {
+  color: white;
+  margin: 10px;
+}
+
 .btn {
   border-radius: 0;
   text-transform: uppercase;
